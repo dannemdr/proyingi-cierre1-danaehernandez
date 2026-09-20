@@ -14,6 +14,9 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 3. Usa **al menos un sensor o un actuador** controlado por un microcontrolador pequeño.
 4. Lo puede construir un **equipo de principiantes en unas ocho sesiones**, con materiales accesibles.
 
+
+
+
 ---
 
 ## Idea 1: Radiant (Generador Físico de Side-Quests)
@@ -28,3 +31,17 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 - Qué mide o detecta (sensor): Perilla / Encoder rotativo (KY-040) para seleccionar la meta principal e interactuar con el menú, y un botón mecánico/táctil para presionar "Misión Cumplida".
 - Qué hace con eso (actuador, aviso, pantalla): El ESP32-S3 se conecta por Wi-Fi a la API de Gemini para descomponer la meta en mini-misiones de 10 minutos dependiendo de la mision (mostrando solo la misión actual en una pantalla OLED 1.3"). Utiliza un anillo/tira LED NeoPixel como temporizador visual y un buzzer pasivo para emitir sonidos retro de 8-bits al ganar XP, ósea al completar la misión.
 - Qué pieza habría que fabricar: Carcasa estilo retro-arcade/cyberpunk en acrílico con corte láser, con los orificios para la pantalla, el dial, los LEDs y el botón físico.
+---
+
+## Idea 2: ShoobyKey (Llave Biométrica de Seguridad Físico-Digital)
+
+**Problema.** La vulnerabilidad de nuestras cuentas personales al depender únicamente de contraseñas de texto, las cuales pueden ser filtradas o robadas en ataques a servidores, dejando desprotegidas nuestras redes sociales e información privada.
+
+**A quién le pasa.** A usuarios de internet, estudiantes y cualquier persona que maneje redes sociales y servicios digitales sin un factor de autenticación físico.
+
+**Dónde lo he visto.** En mi vida personal recientemente. Sufrí un ataque al entrar a un servidor de Discord desde el cual lograron extraer mis contraseñas de varias redes sociales y cuentas personales. Ahí me di cuenta de lo fácil que es perder el control de tus accesos digitalmente si no tienes una capa de seguridad física.
+
+**Cómo funcionaría.**
+- Qué mide o detecta (sensor): Sensor de huella dactilar capacitivo (FPM10A/R307) para validar biométricamente la identidad del usuario antes de liberar cualquier acceso.
+- Qué hace con eso (actuador, aviso, pantalla): El ESP32-S3 procesa el protocolo FIDO2 / WebAuthn por USB nativo. Una pantalla OLED de 0.96" muestra qué sitio está solicitando acceso y un anillo LED NeoPixel indica si el acceso fue seguro (Verde) o si hubo un intento no autorizado (Rojo).
+- Qué pieza habría que fabricar: Chasis compacto tipo llavero rígido con conectores reforzados, fabricado en acrílico con corte láser.
