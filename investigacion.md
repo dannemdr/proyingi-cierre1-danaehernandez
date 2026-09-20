@@ -42,6 +42,9 @@
 | Año                  | 2026                                                                                                                                           |
 | Enlace               | https://ai.google.dev/docs                                                                                                                     |
 | Tipo                 | documentación técnica                                                                                                                          |
+| Por qué le creo      | Es la documentación técnica oficial que brinda el proveedor directamente.                                                                      |
+| Qué dato me dio      | El procedimiento para generar la API Key gratuita y cómo estructurar los Prompts para recibir respuestas estrictamente en formato JSON ligero. |
+
 
 ---
 
@@ -56,3 +59,73 @@
 | Tipo | documentación técnica |
 | Por qué le creo | Es el fabricante del microcontrolador que se utilizará en el proyecto. |
 | Qué dato me dio | La información de pines I2C/SPI y la capacidad de la memoria SRAM para procesar solicitudes HTTP/HTTPS con Wi-Fi. |
+
+
+---
+
+### Fuente 3
+
+| Campo | Contenido |
+|---|---|
+| Autor u organización | Interaction Design Foundation |
+| Título | Gamification: How to Design Engaging Experiences |
+| Año | 2024 |
+| Enlace | https://www.interaction-design.org/literature/topics/gamification |
+| Tipo | artículo técnico/educativo |
+| Por qué le creo | Es un instituto de diseño con prestigio internacional especializado en experiencia de usuario. |
+| Qué dato me dio | Los principios para descomponer objetivos complejos en pequeñas metas con retroalimentación visual inmediata sin generar saturación. |
+
+---
+### Fuente 4
+
+| Campo | Contenido |
+|---|---|
+| Autor u organización | Adafruit Industries |
+| Título | Adafruit NeoPixel Library Documentation |
+| Año | 2026 |
+| Enlace | https://learn.adafruit.com/adafruit-neopixel-uberguide |
+| Tipo | documentación de librería open-source |
+| Por qué le creo | Es el fabricante y creador de la librería estándar para tiras LED programables en Arduino/ESP32. |
+| Qué dato me dio | El consumo energético en miliamperios (mA) de cada LED NeoPixel para calcular el requerimiento de la fuente de alimentación. |
+
+---
+
+### Fuente 5
+
+| Campo | Contenido |
+|---|---|
+| Autor u organización | Random Nerd Tutorials |
+| Título | ESP32-S3 HTTP GET / POST Requests using Arduino IDE |
+| Año | 2025 |
+| Enlace | https://randomnerdtutorials.com/esp32-http-get-post-arduino/ |
+| Tipo | tutorial técnico especializado |
+| Por qué le creo | Es un portal de referencia muy reconocido en proyectos de electrónica y microcontroladores. |
+| Qué dato me dio | El código base para realizar peticiones HTTP POST seguras enviando y leyendo objetos JSON mediante Wi-Fi. |
+
+---
+
+### Fuente 6
+
+| Campo                | Contenido                                                                                                                                                                                                                  |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Autor u organización | brenpoly (YouTube)                                                                                                                                                                                                         |
+| Título               | I made a real BMO local AI agent with a Raspberry Pi and Ollama                                                                                                                                                            |
+| Año                  | 2026                                                                                                                                                                                                                       |
+| Enlace               | https://www.youtube.com/watch?v=l5ggH-YhuAw                                                                                                                                                                                |
+| Tipo                 | video tutorial / proyecto maker                                                                                                                                                                                            |
+| Por qué le creo      | Muestra todo el proceso práctico de ensamble físico de un robot/agente de escritorio interactivo con pantalla, botones y un agente de IA.                                                                                  |
+| Qué dato me dio      | La arquitectura para integrar botones mecánicos, pantalla y un microcontrolador enviando estados visuales y respuestas de IA en un dispositivo físico y ver mas o menos como funcionan ideas similares en cuanto a físico. |
+
+---
+
+### Fuente 8
+
+| Campo                | Contenido                                                                                                                                                                                       |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Autor u organización | Thanh-y David Nguyen (YouTube)                                                                                                                                                                  |
+| Título               | How to build a JARVIS AI Voice Agent for FREE \| Full Livekit Tutorial                                                                                                                          |
+| Año                  | 2026                                                                                                                                                                                            |
+| Enlace               | https://www.youtube.com/watch?v=Fhm8goKN6rM                                                                                                                                                     |
+| Tipo                 | video tutorial técnico                                                                                                                                                                          |
+| Por qué le creo      | Explica paso a paso cómo conectar la API gratuita de Gemini (Gemini Flash) con un flujo de interacción de voz en tiempo real.                                                                   |
+| Qué dato me dio      | El procedimiento para configurar la API Key de Google Gemini y utilizar llamadas a funciones (Tool Calling / Function Tools) para ejecutar tareas externas y darme ánimos de que si es posible  |
