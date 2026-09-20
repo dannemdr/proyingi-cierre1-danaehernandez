@@ -42,5 +42,17 @@
 | Año                  | 2026                                                                                                                                           |
 | Enlace               | https://ai.google.dev/docs                                                                                                                     |
 | Tipo                 | documentación técnica                                                                                                                          |
-| Por qué le creo      | Es la documentación técnica oficial que brinda el proveedor directamente.                                                                      |
-| Qué dato me dio      | El procedimiento para generar la API Key gratuita y cómo estructurar los Prompts para recibir respuestas estrictamente en formato JSON ligero. |
+
+---
+
+### Fuente 2
+
+| Campo | Contenido |
+|---|---|
+| Autor u organización | Espressif Systems |
+| Título | Guía de hardware y especificaciones del ESP32-S3 |
+| Año | 2025 |
+| Enlace | https://www.espressif.com/en/products/socs/esp32-s3 |
+| Tipo | documentación técnica |
+| Por qué le creo | Es el fabricante del microcontrolador que se utilizará en el proyecto. |
+| Qué dato me dio | La información de pines I2C/SPI y la capacidad de la memoria SRAM para procesar solicitudes HTTP/HTTPS con Wi-Fi. |
