@@ -136,3 +136,13 @@
 ## Parte 3. Qué haría distinto
 
 A diferencia de las plataformas exclusivamente digitales como SelfQuest que se quedan como una app más en el celular y se olvidan rápidamente, mi propuesta crea un gadget físico de escritorio. El dispositivo no requiere que uses tu celular para funcionar, eliminando distracciones. Además, utiliza la API de Gemini o alguna parecido como la que vimos el viernes  para que el usuario solo reciba la misión secundaria actual, engañando al cerebro para cumplir objetivos paso a paso sin abrumarse, acompañando la experiencia con luces Neopixel y sonido retro, porque como vimos en las fuentes, tras una investigación todo se trata de la experiencia del usuario, por eso hasta esta de moda y es tan buen negocio las alarmas Hatch se centra en brindar un  experiencia al usuario.
+
+
+---
+
+## Parte 4. Qué me falta averiguar
+
+- [ ] Medir el tiempo real de procesamiento que le toma al ESP32 recibir la respuesta en JSON de la API de Gemini.
+- [ ] Ajustar el consumo de corriente al tener encendida la pantalla OLED y la tira LED Neopixel simultáneamente.
+- [ ] Diseñar las pestañas de ensamble para la carcasa de acrílico en el software de corte láser.
+- [ ] Un diseño llamativo, ya que tengo varias ideas en mente pero me falta definir el mejor diseño posible para que sea útil, llamativo, bonito y funcional.
