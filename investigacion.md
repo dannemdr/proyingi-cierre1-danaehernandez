@@ -118,7 +118,7 @@
 
 ---
 
-### Fuente 8
+### Fuente 7
 
 | Campo                | Contenido                                                                                                                                                                                       |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -129,3 +129,10 @@
 | Tipo                 | video tutorial técnico                                                                                                                                                                          |
 | Por qué le creo      | Explica paso a paso cómo conectar la API gratuita de Gemini (Gemini Flash) con un flujo de interacción de voz en tiempo real.                                                                   |
 | Qué dato me dio      | El procedimiento para configurar la API Key de Google Gemini y utilizar llamadas a funciones (Tool Calling / Function Tools) para ejecutar tareas externas y darme ánimos de que si es posible  |
+
+
+---
+
+## Parte 3. Qué haría distinto
+
+A diferencia de las plataformas exclusivamente digitales como SelfQuest que se quedan como una app más en el celular y se olvidan rápidamente, mi propuesta crea un gadget físico de escritorio. El dispositivo no requiere que uses tu celular para funcionar, eliminando distracciones. Además, utiliza la API de Gemini o alguna parecido como la que vimos el viernes  para que el usuario solo reciba la misión secundaria actual, engañando al cerebro para cumplir objetivos paso a paso sin abrumarse, acompañando la experiencia con luces Neopixel y sonido retro, porque como vimos en las fuentes, tras una investigación todo se trata de la experiencia del usuario, por eso hasta esta de moda y es tan buen negocio las alarmas Hatch se centra en brindar un  experiencia al usuario.
