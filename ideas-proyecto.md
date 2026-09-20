@@ -31,6 +31,7 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 - Qué mide o detecta (sensor): Perilla / Encoder rotativo (KY-040) para seleccionar la meta principal e interactuar con el menú, y un botón mecánico/táctil para presionar "Misión Cumplida".
 - Qué hace con eso (actuador, aviso, pantalla): El ESP32-S3 se conecta por Wi-Fi a la API de Gemini para descomponer la meta en mini-misiones de 10 minutos dependiendo de la mision (mostrando solo la misión actual en una pantalla OLED 1.3"). Utiliza un anillo/tira LED NeoPixel como temporizador visual y un buzzer pasivo para emitir sonidos retro de 8-bits al ganar XP, ósea al completar la misión.
 - Qué pieza habría que fabricar: Carcasa estilo retro-arcade/cyberpunk en acrílico con corte láser, con los orificios para la pantalla, el dial, los LEDs y el botón físico.
+
 ---
 
 ## Idea 2: ShoobyKey (Llave Biométrica de Seguridad Físico-Digital)
@@ -45,3 +46,18 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 - Qué mide o detecta (sensor): Sensor de huella dactilar capacitivo (FPM10A/R307) para validar biométricamente la identidad del usuario antes de liberar cualquier acceso.
 - Qué hace con eso (actuador, aviso, pantalla): El ESP32-S3 procesa el protocolo FIDO2 / WebAuthn por USB nativo. Una pantalla OLED de 0.96" muestra qué sitio está solicitando acceso y un anillo LED NeoPixel indica si el acceso fue seguro (Verde) o si hubo un intento no autorizado (Rojo).
 - Qué pieza habría que fabricar: Chasis compacto tipo llavero rígido con conectores reforzados, fabricado en acrílico con corte láser.
+
+---
+
+## Idea 3: Chobic (Escáner y Diagnóstico Térmico Portátil)
+
+**Problema.** La falta de atención a los detalles en nuestra rutina diaria, como olvidar si dejamos aparatos encendidos, conexiones eléctricas calientes o sobrecalentamientos en equipos, lo que representa un riesgo alto de incendios o fallas sin que nadie se dé cuenta a tiempo.
+
+**A quién le pasa.** A personas que viven solas, familias o trabajadores en oficinas que, por el ajetreo diario y la prisa, no se percatan de anomalías térmicas en su entorno.
+
+**Dónde lo he visto.** En mi casa, en oficinas y en departamentos donde las personas salen con prisa y no recuerdan si apagaron todo o dejaron algo encendido. Al no haber alguien al pendiente o no prestar atención a la rutina, los riesgos de un corto o sobrecalentamiento pasan desapercibidos hasta que ya es tarde.
+
+**Cómo funcionaría.**
+- Qué mide o detecta (sensor): Sensor térmico infrarrojo (AMG8833 o MLX90640) conectado por bus I2C para capturar la matriz de temperaturas.
+- Qué hace con eso (actuador, aviso, pantalla): El ESP32-S3 procesa la matriz térmica y la despliega en una pantalla TFT a color de 1.8". Al detectar un punto crítico o brecha de calor, activa un motor de vibración (alerta háptica), un buzzer pasivo y LEDs NeoPixel que cambian de color según la gravedad del riesgo.
+- Qué pieza habría que fabricar: Carcasa en capas de acrílico humo mediante corte láser con diseño ergonómico estilo "GameBoy" táctico y ventana protectora para el sensor térmico.
