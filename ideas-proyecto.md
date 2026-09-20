@@ -82,4 +82,10 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 **Qué todavía no sé.** Falta probar la latencia exacta de respuesta entre el ESP32-S3 y la API de Google al enviar y recibir el JSON mediante Wi-Fi, y el cómo realizar una carcasa, no se bien de diseño, pero siempre es bueno aprender nuevas cosas y al final para eso vivimos, para aprender. En diseño me imagino algo así como un BMO. 
 
+---
 
+## Declaración de uso de IA
+
+- **Herramienta utilizada:** Google Gemini (Modelo Gemini 1.5 Pro).
+- **Qué le pedí:** Apoyo como asistente para revisar la ortografía, dar formato Markdown a mis borradores y organizar los textos en la plantilla requerida. 
+- **Qué modifiqué o rechacé de su respuesta, y por qué:** Reescribí completamente las descripciones de los problemas, las vivencias personales, la lógica de los dispositivos (con ayuda de deepseek, para ver si mi lógica estaba bien y era viable) y las razones de elección para asegurar que el contenido reflejara al 100% mis ideas, experiencias y decisiones técnicas.
