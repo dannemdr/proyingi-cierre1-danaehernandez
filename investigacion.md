@@ -28,3 +28,19 @@
 - **Enlace:** https://www.jidetech.com/es/collections/thermal-camera/products/lc008-plus-heavy-duty-thermal-camera-for-forest-fire-prevention
 - **Qué hace:** Cámaras de termografía para inspección pesada e industrial.
 - **Por qué no resuelve mi caso:** Son equipos de muy difícil obtención, sumamente caros e inaccesibles para la gente común. Falta alternativa comercial accesible para el hogar o la oficina cotidiana de manera especifica con alarmas, cámara, bajo costo y que no sea la típica cámara resuelvetodo de Amazon (Que no suelen funcionar al 100). La idea de Chobic es hacer que la seguridad térmica preventiva sea accesible, portátil e interactiva para cualquier persona.
+
+---
+
+## Parte 2. Fuentes de la idea que elegí
+
+### Fuente 1
+
+| Campo                | Contenido                                                                                                                                      |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Autor u organización | Google AI for Developers                                                                                                                       |
+| Título               | Documentación oficial de la API de Gemini y Google AI Studio                                                                                   |
+| Año                  | 2026                                                                                                                                           |
+| Enlace               | https://ai.google.dev/docs                                                                                                                     |
+| Tipo                 | documentación técnica                                                                                                                          |
+| Por qué le creo      | Es la documentación técnica oficial que brinda el proveedor directamente.                                                                      |
+| Qué dato me dio      | El procedimiento para generar la API Key gratuita y cómo estructurar los Prompts para recibir respuestas estrictamente en formato JSON ligero. |
