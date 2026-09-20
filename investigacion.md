@@ -146,3 +146,11 @@ A diferencia de las plataformas exclusivamente digitales como SelfQuest que se q
 - [ ] Ajustar el consumo de corriente al tener encendida la pantalla OLED y la tira LED Neopixel simultáneamente.
 - [ ] Diseñar las pestañas de ensamble para la carcasa de acrílico en el software de corte láser.
 - [ ] Un diseño llamativo, ya que tengo varias ideas en mente pero me falta definir el mejor diseño posible para que sea útil, llamativo, bonito y funcional.
+
+---
+
+## Declaración de uso de IA
+
+- **Herramienta utilizada:** Google Gemini (Modelo Gemini 1.5 Pro).
+- **Qué le pedí:** Apoyo para dar formato a las tablas y estructurar el texto según la plantilla.
+- **Qué modifiqué o rechacé de su respuesta, y por qué:** Redacté personalmente con apoyo de corrección gramatical y redacción de todas las comparativas con los productos existentes, mis opiniones sobre las tecnologías consultadas y el enfoque distintivo de mi proyecto.
