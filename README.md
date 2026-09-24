@@ -25,3 +25,4 @@ Siento que voy a un ritmo tranquilo, me apasiona el que se brinde una materia de
 - Se uso para generar la plantilla de la portada es decir el formato de acuerdo a lo solicitado para que así pudiera ocuparlo de guía.
 - Se uso para resolver dudas en cuanto a como enlazar Obsidian, de igual forma para que diera una guía clara y concreta en como hacerlo
 - Uso para corrección gramática y mejora de estructura en oraciones y párrafos 
+- En este proyecto se utilizó inteligencia artificial (Gemini) como herramienta de asistencia para organizar la estructura de los archivos, revisar la redacción y guiar los pasos de configuración del repositorio y diseño.
