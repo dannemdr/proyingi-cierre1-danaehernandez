@@ -11,3 +11,7 @@ Para la entrega de diseño 2D fabricaré la **carcasa plana frontal estilo retro
 - Contorno exterior cerrado (máximo 15 x 15 cm).
 - Un hueco interior rectangular de soporte para la pantalla OLED 1.3".
 - Perforaciones y ranuras de 3 mm para montar el dial del encoder rotativo (KY-040), LEDs y botón mecánico.
+
+## Declaración de uso de IA
+
+- En este proyecto se utilizó inteligencia artificial (Gemini) como herramienta de apoyo para organizar mis ideas, estructura de ideas y gramática y plantear de manera más concreta la parte que se hará en físico. 
