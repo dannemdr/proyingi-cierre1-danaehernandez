@@ -1,6 +1,7 @@
 # Cierre 1: Repositorio de Trabajo
 
 **Autora:** Danae Hernández
+**Fecha:** 24 de Septiembre de 2026
 
 ---
 
@@ -13,6 +14,7 @@ Este repositorio funciona como entrega del Cierre 1 y contiene los siguientes ar
 
 * [[ideas-proyecto]] - Tres propuestas de proyecto con su análisis de viabilidad.
 * [[investigacion]] - Ejemplos existentes y fuentes de investigación de la idea seleccionada.
+* [[idea-elegida]] - Motivos de idea y estructura inicial de parte fisica  
 
 ## Cómo voy en el curso
 

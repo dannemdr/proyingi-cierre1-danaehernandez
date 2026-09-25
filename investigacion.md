@@ -1,7 +1,7 @@
 # Investigación: ¿esto ya existe? ¿quién lo dice?
 
 **Autor:** Danae Hernández Saavedra
-**Fecha:** 18 de septiembre de 2026
+**Fecha:** 24 de septiembre de 2026
 **Ideas analizadas:** ver [[ideas-proyecto]] o [ideas-proyecto.md](ideas-proyecto.md)
 
 ---

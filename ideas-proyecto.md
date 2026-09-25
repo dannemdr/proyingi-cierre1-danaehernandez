@@ -1,7 +1,7 @@
 # Tres ideas de proyecto
 
 **Autor:** Danae Hernández Saavedra
-**Fecha:** 20 de septiembre de 2026
+**Fecha:** 24 de septiembre de 2026
 
 ---
 
