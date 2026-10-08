@@ -1,0 +1,1 @@
+![[kerf.dxf]]![[Screenshot 2026-10-08 at 2.13.27 p.m..png]]
