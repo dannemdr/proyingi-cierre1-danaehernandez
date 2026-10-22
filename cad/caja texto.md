@@ -59,9 +59,9 @@ Aquí se podría decir que el error que se tuvo fue que hubo mucha potencia y un
 | Speed      | 800.00 |
 De igual forma, en el grabado se quemó demasiado; incluso cortaba en el grabado.
 
-![[sources/Screenshot 2026-10-21 at 10.21.50 a.m..png]]
+![imagen1](./sources/Screenshot 2026-10-21 at 10.21.50 a.m..png)
 
-![[IMG_4817.jpg]]
+![imagen2](./sources/IMG_4817.jpg)
 
 
 ### Segundo intento
